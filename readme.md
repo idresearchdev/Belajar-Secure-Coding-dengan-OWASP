@@ -1,2 +1,4 @@
-Belajar Secure Coding dengan OWASP
-adalah suatu buku pedoman agar masyarakat indonesia memahami apa itu OWASP. OWASP adalah Organisasi Keamanan Aplikasi Web Terbuka yang menghasilkan artikel, metodologi, dokumentasi, alat, dan teknologi yang tersedia secara bebas di bidang keamanan aplikasi web.
+<b>Belajar Secure Coding dengan OWASP<b>
+suatu buku pedoman agar masyarakat indonesia memahami apa itu OWASP. OWASP adalah Organisasi Terbuka dalam Keamanan Aplikasi Web yang menghasilkan artikel, metodologi, dokumentasi, alat, dan teknologi yang tersedia secara bebas di bidang keamanan aplikasi web. OWASP sendiri banyak membahas tentang Tool dan standar keamanan aplikasi, Buku tentang uji keamanan aplikasi, pengembangan kode aman, review kode keamanan dan Kendali keamanan dan pustaka standar
+
+
